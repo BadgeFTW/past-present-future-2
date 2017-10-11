@@ -1,0 +1,54 @@
+body {
+      background-color: #052d38;
+      font-family: cursive;
+      color: #42cef4;
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 900px;
+}
+
+p {
+}
+
+h1 {
+    color:;
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+}
+
+href{
+  color: #0000;
+}
+h2 {
+   text-align: center;
+
+}
+
+h2 {
+  text-align: center;
+}
+
+img  {
+
+     max-width: 100%;
+}
+.boxed {
+  border-style: solid;
+  padding: 5px;
+}
+.round {
+  border-style: solid;
+  padding: 5px;
+  margin-top: 50px;
+}
+
+.lolz {
+  border-style: solid;
+  padding: 5px;
+}
+
+.spicy {
+  border-style: solid;
+  padding: 5px;
+}
